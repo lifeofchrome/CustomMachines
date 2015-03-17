@@ -1,4 +1,4 @@
 Custom Machines
 ==============
-Yeah, haven't been working on this lately...
-I'll try to get some initial stuff in soon.
+A mod that allows you to make machines that do what you want them to.
+(Note: barely started on this)
