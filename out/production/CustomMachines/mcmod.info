@@ -1,0 +1,17 @@
+[
+{
+  "modid": "CustomMachines",
+  "name": "Custom Machines",
+  "description": "A mod to let players create their own machines.",
+  "version": "1.0",
+  "credits": "Thank you Pahimar for the Lets Mod tutorials!",
+  "logoFile": "",
+  "mcversion": "1.7.10",
+  "url": "http://lifeofchrome.weebly.com/custom-machines-mod.html",
+  "updateUrl": "",
+  "authorList": [ "lifeofchrome" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": []
+}
+]
